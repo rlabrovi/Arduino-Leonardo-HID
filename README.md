@@ -1,5 +1,5 @@
 # Arduino-Leonardo-HID
-Arduino Leonardo HID keyboard scripts
+The project is the result of the course Security of Information Systems at the Faculty of Organization and Informatics.
 
 ## 1.Install HID functions to your Arduino!
 * [Download library](https://github.com/NicoHood/HID)
