@@ -6,3 +6,6 @@ The project is the result of the course Security of Information Systems at the F
 * [Download library](https://github.com/NicoHood/HID)
 * Import library: In Arduino IDE -> Sketch -> Import Library -> Add library
 * Replace all .h .cpp files from HID-master to C:\Program Files (x86)\Arduino\hardware\arduino\cores\arduino. The path depends on where you installed the Arduino IDE.
+
+
+
